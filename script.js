@@ -44,8 +44,8 @@ const countryFlagThreads = document.getElementById('country-flag-threads');
 
 // Constants
 const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/';
-const API_BASE = 'https://8kun.top/';
-const MEDIA_BASE = 'https://media.8kun.top/file_store/';
+const API_BASE = 'https://a.4cdn.org';
+const MEDIA_BASE = 'https://i.4cdn.org';
 const CURRENT_DATE = new Date('2025-05-05');
 
 // State Management
